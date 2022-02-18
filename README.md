@@ -22,4 +22,4 @@
 
 
 
-[![Discord Bots](https://top.gg/api/widget/904774036066795541.svg)(https://top.gg/bot/904774036066795541)
+[![Discord Bots](https://top.gg/api/widget/904774036066795541.svg)](https://top.gg/bot/904774036066795541)
