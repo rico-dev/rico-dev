@@ -15,11 +15,3 @@
 
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/865192766727389224)](https://discord.com/users/865192766727389224)
-
-
-
-
-
-
-
-[![Discord Bots](https://top.gg/api/widget/904774036066795541.svg)](https://top.gg/bot/904774036066795541)
