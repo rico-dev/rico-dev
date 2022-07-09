@@ -3,12 +3,11 @@
 ### 🪄 Languages
 * JavaScript
 * Node.JS
-* HTML & CSS
+* HTML & CSS & PHP
 * Lua
 
 
 ### My projects
-- [Mino Bot](https://minobot.de/) - A nice Discord Bot. <br />
 - [ImoShield](https://dsc.gg/imoshield) - The Best FiveM Anticheat. <br>
 <br />
 
